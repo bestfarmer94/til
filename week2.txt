@@ -1,0 +1,6 @@
+- 협업하기 위한 단계는 무엇이 있을까?	: issue - branch - merge
+- issue		: 개선 사항, 문제 사항 (작업 내용)
+- branch	: 각자 issue를 맡아 작업하는 곳
+- merge	: 각 작업을 합친다.
+- merge conflict	: 충돌 상황에 직접 확인하여 필요한 것들은 합치고, 필요 없거나 겹치는 것 제거.
+- 원격 repo 의 origin	: 깃 서버에 저장된 공간은 origin으로 표시한다. 작업 방식에 따라 origin 안에도 여러 브랜치가 생성 될 수 있다.
